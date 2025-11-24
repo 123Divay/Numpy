@@ -18,26 +18,26 @@ This project uses the 20 Newsgroups dataset (from Scikit-Learn).
 
 Selected categories:
 
-1. sci.space
+> sci.space
 
-2. comp.graphics
+> comp.graphics
 
-3. rec.sport.baseball
+> rec.sport.baseball
 
 # A total of 30 documents are used (10 per category).
 
 # 🧰 Libraries Used
 
-1. Library	Purpose
+> Library	Purpose
 
-2. sentence-transformers	Create text embeddings
+> sentence-transformers	Create text embeddings
 
-3. sklearn.datasets	Load dataset
+> sklearn.datasets	Load dataset
 
-4. sklearn.metrics.pairwise	Compute cosine similarity
+> sklearn.metrics.pairwise	Compute cosine similarity
 
-5. numpy	Handle indexing & vector operations
+> numpy	Handle indexing & vector operations
 
-6. gpt4all (optional)	Lightweight local LLM for generation
+> gpt4all (optional)	Lightweight local LLM for generation
 
-7. pandas (optional)	Data formatting/export
+> pandas (optional)	Data formatting/export
